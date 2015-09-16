@@ -1,0 +1,15 @@
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\bin\Debug\SynapticsTouchDeviceUpdater.exe.config
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\bin\Debug\SynapticsTouchDeviceUpdater.exe.manifest
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\bin\Debug\SynapticsTouchDeviceUpdater.application
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\bin\Debug\SynapticsTouchDeviceUpdater.exe
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\bin\Debug\SynapticsTouchDeviceUpdater.pdb
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\bin\Debug\SynapticsTouchDeviceUpdater.xml
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.Form1.resources
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.Resources.resources
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.vbproj.GenerateResource.Cache
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.TrustInfo.xml
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.exe.manifest
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.application
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.exe
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.xml
+C:\Users\Evan King\Documents\Visual Studio 2012\Projects\Synaptics Touch Device Updater\obj\Debug\SynapticsTouchDeviceUpdater.pdb
